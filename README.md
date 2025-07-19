@@ -60,6 +60,13 @@ A fully functional enterprise network simulating real-world infrastructure and s
 - 🐧 **Linux & CLI-based Networking**
 
 ---
+## 📂 Source Code
+
+You can find the Python source code used for building the SDN topology and the private blockchain module inside the [`/code`](./code) directory.
+
+### 📜 Files:
+- `final-Block.py`: Sets up SDN topology using Mininet, Implements private blockchain authentication
+---
 
 ## 📸 Topology Snapshots
 
