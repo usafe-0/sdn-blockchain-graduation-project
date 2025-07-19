@@ -77,10 +77,10 @@ You can find the Python source code used for building the SDN topology and the p
 ## 🎥 Project Presentation
 
 The full presentation is available on Canva:  
-🔗 [View Presentation on Canva](https://www.canva.com/design/DAGrnWhJmpE/yi57Dm44qBhPBSYQxmK9Pg/editutm_content=DAGrnWhJmpE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+🔗 [View Presentation on Canva](https://www.canva.com/design/DAGrnWhJmpE/yi57Dm44qBhPBSYQxmK9Pg/edit?utm_content=DAGrnWhJmpE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 ## 📄 Documentation
 
 You can find the full technical documentation in PDF format here:  
-📥 [Download Project Documentation](./documentation/Project_Documentation.pdf)
+📥 [Download Project Documentation](Project_Documentation.pdf)
